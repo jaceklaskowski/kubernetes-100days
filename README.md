@@ -2,6 +2,16 @@
 
 Notes from the 100 days with [Kubernetes](https://kubernetes.io/) &mdash; a container orchestration platform (for [Apache Spark](https://spark.apache.org/) and [Apache Kafka](https://kafka.apache.org/)).
 
+* [Google Kubernetes Engine](./gke.md)
+* [Minikube &mdash; Single-Node Local Kubernetes Cluster](./minikube.md)
+
+## Daily Notes
+
+* [Day 4 &mdash; Google Kubernetes Engine](./004.md)
+* [Day 3](./003.md)
+* [Day 2](./002.md)
+* [Day 1](./001.md)
+
 ## The Goal
 
 I've long been thinking about what is _my way of learning_ in a more effective way. I found taking notes in public (mainly on [gitbook](https://www.gitbook.com/@jaceklaskowski)) very effective to keep the learning pace, and wanted to explore other tools.
