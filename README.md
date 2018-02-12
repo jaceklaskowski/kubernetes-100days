@@ -2,6 +2,7 @@
 
 Notes from the 100 days with [Kubernetes](https://kubernetes.io/) &mdash; a container orchestration platform (for [Apache Spark](https://spark.apache.org/) and [Apache Kafka](https://kafka.apache.org/)).
 
+* [Kubernetes on DC/OS](./dcos.md)
 * [Spark on Kubernetes](./spark.md)
 * [Google Kubernetes Engine](./gke.md)
 * [Minikube &mdash; Single-Node Local Kubernetes Cluster](./minikube.md)
@@ -11,6 +12,7 @@ Notes from the 100 days with [Kubernetes](https://kubernetes.io/) &mdash; a cont
 
 ## Daily Notes
 
+* [Day 6 &mdash; Kubernetes on DC/OS](./006.md)
 * [Day 5 &mdash; Spark on Kubernetes and Kubernetes 1.9.3](./005.md)
 * [Day 4 &mdash; Google Kubernetes Engine](./004.md)
 * [Day 3](./003.md)
