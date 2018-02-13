@@ -15,3 +15,4 @@ The list of tasks to do (should rather be in Issues at GitHub, _shouldn't it_).
 1. https://stackoverflow.com/questions/tagged/kubernetes?sort=votes&pageSize=50&mixed=1
 1. https://github.com/GoogleCloudPlatform/freshpod
 1. [k8sPort](http://k8sport.org/)
+1. How to manage `/Users/jacek/.kube/config`?

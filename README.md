@@ -12,6 +12,7 @@ Notes from the 100 days with [Kubernetes](https://kubernetes.io/) &mdash; a cont
 
 ## Daily Notes
 
+* [Day 7](./007.md)
 * [Day 6 &mdash; Kubernetes on DC/OS](./006.md)
 * [Day 5 &mdash; Spark on Kubernetes and Kubernetes 1.9.3](./005.md)
 * [Day 4 &mdash; Google Kubernetes Engine](./004.md)
