@@ -6,19 +6,21 @@
 
 Current version: Minikube [0.25.0](https://github.com/kubernetes/minikube/blob/v0.25.0/CHANGELOG.md#version-0250---1262018) with Kubernetes 1.9
 
+## Update Check
+
+Use `minikube update-check` to print current and latest version number.
+
+```
+$ minikube update-check
+CurrentVersion: v0.25.0
+LatestVersion: v0.25.0
+```
+
+Use [Minikube Release Notes](https://github.com/kubernetes/minikube/blob/master/CHANGELOG.md) to know the latest version of minikube.
+
 ## Documentation
 
 1. https://kubernetes.io/docs/getting-started-guides/minikube/
-
-## Installing minikube on macOS
-
-Official docs: [Installing minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
-
-1. Install a Hypervisor, e.g. VirtualBox 5.2.6
-2. [brew install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
-3. [brew cask install minikube](https://github.com/kubernetes/minikube/releases)
-    1. `brew cask reinstall minikube` to reinstall and **upgrade** minikube
-    1. https://github.com/kubernetes/minikube/blob/v0.25.0/README.md
 
 ## Running minikube on macOS
 
@@ -172,3 +174,13 @@ logout
 $ ./out/minikube cache add ubuntu:16.04 redis:3
 $ ./out/minikube cache list
 ```
+
+## Installing minikube on macOS
+
+Official docs: [Installing minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+
+1. Install a Hypervisor, e.g. VirtualBox 5.2.6
+2. [brew install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)
+3. [brew cask install minikube](https://github.com/kubernetes/minikube/releases)
+    1. `brew cask reinstall minikube` to reinstall and **upgrade** minikube
+    1. https://github.com/kubernetes/minikube/blob/v0.25.0/README.md
