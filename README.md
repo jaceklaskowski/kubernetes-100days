@@ -8,10 +8,12 @@ Notes from the 100 days with [Kubernetes](https://kubernetes.io/) &mdash; a cont
 * [Minikube &mdash; Single-Node Local Kubernetes Cluster](./minikube.md)
 * [kubectl &mdash; Kubernetes Command-Line Interface](./kubectl.md)
 * [kubeadm](./kubeadm.md)
+* [Kubernetes Native Applications](./k8s-native-app.md)
 * [Tasks / TODO](./todo.md)
 
 ## Daily Notes
 
+* [Day 9](./009.md)
 * [Day 8](./008.md)
 * [Day 7](./007.md)
 * [Day 6 &mdash; Kubernetes on DC/OS](./006.md)
